@@ -19,7 +19,7 @@ Thermistor - change for E3D V6 thermistor
 ```
 #define TEMP_SENSOR_0 5
 #define HEAT```ER_0_MAXTEMP 285
-
+```
 Nozzle to Probe Offset - changed for BLT with EVA carriage - https://contrib.eva-3d.page/printer-compatibility/ender-5/
 ```
 #define NOZZLE_TO_PROBE_OFFSET { -28, -13, -3 }
