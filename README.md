@@ -1,4 +1,4 @@
-# Ender 5 Plus with SKR 2 /TFT35 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend
+# Ender 5 Plus with SKR 2 / TFT35 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend
 Ender 5 Plus
 
 I, AND THE PARTIES INVOLVED, AM NOT RESPONSIBLE FOR ANY DAMAGE(S) CAUSED BY USING THE PROVIDED MODIFICATIONS. PROCEED AT YOUR OWN RISK!
