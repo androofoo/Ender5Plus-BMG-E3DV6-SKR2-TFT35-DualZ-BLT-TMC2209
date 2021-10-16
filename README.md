@@ -18,7 +18,7 @@ BMG Motor inverting - if your X axis moves the opposite way from the x-endstop c
 Thermistor - change for E3D V6 thermistor
 ```
 #define TEMP_SENSOR_0 5
-#define HEAT```ER_0_MAXTEMP 285
+#define HEATER_0_MAXTEMP 285
 ```
 Nozzle to Probe Offset - changed for BLT with EVA carriage - https://contrib.eva-3d.page/printer-compatibility/ender-5/
 ```
