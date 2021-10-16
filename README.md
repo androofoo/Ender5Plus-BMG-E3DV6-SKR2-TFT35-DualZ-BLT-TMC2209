@@ -1,9 +1,9 @@
-# Ender 5 Plus with SKR 2 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend
+# Ender 5 Plus with SKR 2 /TFT35 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend
 Ender 5 Plus
 
 I, AND THE PARTIES INVOLVED, AM NOT RESPONSIBLE FOR ANY DAMAGE(S) CAUSED BY USING THE PROVIDED MODIFICATIONS. PROCEED AT YOUR OWN RISK!
 
-Baseline firmware compiled from Kersey Fabrications 2.0.9.1-BTT-SKR-2-Ender5Plus-DualZ branch. Modifications made to work with my Ender 5 Plus with SKR 2 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend. This is not using Sensorless homing, but can be used. Still trying to figure it out myself. Please drop a comment if you know how to!
+Baseline firmware compiled from Kersey Fabrications 2.0.9.1-BTT-SKR-2-Ender5Plus-DualZ branch. Modifications made to work with my Ender 5 Plus with SKR 2 / TFT35 / TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend. This is not using Sensorless homing, but can be used. Still trying to figure it out myself. Please drop a comment if you know how to!
 
 Modifications:
 
