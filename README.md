@@ -1,5 +1,6 @@
-# Ender 5 Plus with SKR 2 / TFT35 / BTT TMC2209 / BLT / BMG DD / E3D V6 hotend
-Ender 5 Plus
+## Ender 5 Plus with SKR 2 / TFT35 / BTT TMC2209 / BLT / BMG DD / E3D V6 hotend
+
+!(https://thebuildjournal.com/wp-content/uploads/2021/10/ender5plus_bmg_tmc2209_skr2.jpg)
 
 I, AND THE PARTIES INVOLVED, AM NOT RESPONSIBLE FOR ANY DAMAGE(S) CAUSED BY USING THE PROVIDED MODIFICATIONS. PROCEED AT YOUR OWN RISK!
 
