@@ -25,3 +25,7 @@ Nozzle to Probe Offset - changed for BLT with EVA carriage - https://contrib.eva
 ```
 #define NOZZLE_TO_PROBE_OFFSET { -28, -13, -3 }
 ```
+
+### Work In Progress
+- [ ] Sensorless X/Y homing
+- [ ] Adjust bed size limits for E3D V6
