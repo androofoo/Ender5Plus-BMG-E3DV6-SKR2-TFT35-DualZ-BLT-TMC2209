@@ -6,7 +6,7 @@ I, AND THE PARTIES INVOLVED, AM NOT RESPONSIBLE FOR ANY DAMAGE(S) CAUSED BY USIN
 
 Baseline firmware compiled from Kersey Fabrications 2.0.9.1-BTT-SKR-2-Ender5Plus-DualZ branch. Modifications made to work with my Ender 5 Plus with SKR 2 / TFT35 / BTT TMC2209 / BLT / BMG direct drive extruder / E3D V6 hotend. This is not using Sensorless homing, but can be used. Still trying to figure it out myself. Please drop a comment if you know how to!
 
-Modifications:
+### Modifications
 
 BMG Esteps - change to 415 (for BMG)
 ```
